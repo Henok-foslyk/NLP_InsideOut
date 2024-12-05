@@ -1,0 +1,148 @@
+Evaluating Binary Relevance with Logistic Regression...
+
+
+EVALUATION: Binary Relevance with Logistic Regression
+MICRO recall: 0.4272, precision: 0.6364, f1: 0.5112
+MACRO recall: 0.298, precision: 0.4758, f1: 0.3388
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0, precision: 0.0, f1: 0.0
+
+*** Fear ***
+recall: 0.7375, precision: 0.6782, f1: 0.7066
+
+*** Joy ***
+recall: 0.1034, precision: 0.5, f1: 0.1714
+
+*** Sadness ***
+recall: 0.2174, precision: 0.625, f1: 0.3226
+
+*** Surprise ***
+recall: 0.4318, precision: 0.5758, f1: 0.4935
+
+
+
+Evaluating Classifier Chain with Logistic Regression...
+
+
+EVALUATION: Classifier Chain with Logistic Regression
+MICRO recall: 0.4836, precision: 0.6023, f1: 0.5365
+MACRO recall: 0.39, precision: 0.4644, f1: 0.4171
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0, precision: 0.0, f1: 0.0
+
+*** Fear ***
+recall: 0.675, precision: 0.6835, f1: 0.6792
+
+*** Joy ***
+recall: 0.5172, precision: 0.5, f1: 0.5085
+
+*** Sadness ***
+recall: 0.3261, precision: 0.625, f1: 0.4286
+
+*** Surprise ***
+recall: 0.4318, precision: 0.5135, f1: 0.4691
+
+
+
+Evaluating Binary Relevance with Random Forest...
+
+
+EVALUATION: Binary Relevance with Random Forest
+MICRO recall: 0.4178, precision: 0.6357, f1: 0.5042
+MACRO recall: 0.2543, precision: 0.8825, f1: 0.2559
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0714, precision: 1.0, f1: 0.1333
+
+*** Fear ***
+recall: 0.9875, precision: 0.6124, f1: 0.756
+
+*** Joy ***
+recall: 0.0345, precision: 1.0, f1: 0.0667
+
+*** Sadness ***
+recall: 0.087, precision: 0.8, f1: 0.1569
+
+*** Surprise ***
+recall: 0.0909, precision: 1.0, f1: 0.1667
+
+
+
+Evaluating Classifier Chain with Random Forest...
+
+
+EVALUATION: Classifier Chain with Random Forest
+MICRO recall: 0.4319, precision: 0.6571, f1: 0.5212
+MACRO recall: 0.26, precision: 0.6307, f1: 0.2648
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0, precision: 0.0, f1: 0.0
+
+*** Fear ***
+recall: 0.975, precision: 0.6393, f1: 0.7723
+
+*** Joy ***
+recall: 0.0345, precision: 1.0, f1: 0.0667
+
+*** Sadness ***
+recall: 0.1087, precision: 0.7143, f1: 0.1887
+
+*** Surprise ***
+recall: 0.1818, precision: 0.8, f1: 0.2963
+
+
+
+Evaluating Binary Relevance with SVM...
+
+
+EVALUATION: Binary Relevance with SVM
+MICRO recall: 0.4648, precision: 0.6266, f1: 0.5337
+MACRO recall: 0.3633, precision: 0.5279, f1: 0.4179
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0714, precision: 0.25, f1: 0.1111
+
+*** Fear ***
+recall: 0.6875, precision: 0.7051, f1: 0.6962
+
+*** Joy ***
+recall: 0.2759, precision: 0.5333, f1: 0.3636
+
+*** Sadness ***
+recall: 0.3043, precision: 0.5833, f1: 0.4
+
+*** Surprise ***
+recall: 0.4773, precision: 0.5676, f1: 0.5185
+
+
+
+Evaluating Classifier Chain with SVM...
+
+
+EVALUATION: Classifier Chain with SVM
+MICRO recall: 0.4977, precision: 0.5989, f1: 0.5436
+MACRO recall: 0.4111, precision: 0.5037, f1: 0.442
+
+PER CLASS BREAKDOWN
+*** Anger ***
+recall: 0.0714, precision: 0.25, f1: 0.1111
+
+*** Fear ***
+recall: 0.675, precision: 0.7297, f1: 0.7013
+
+*** Joy ***
+recall: 0.4828, precision: 0.4667, f1: 0.4746
+
+*** Sadness ***
+recall: 0.3261, precision: 0.5357, f1: 0.4054
+
+*** Surprise ***
+recall: 0.5, precision: 0.5366, f1: 0.5176
+

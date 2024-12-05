@@ -1,0 +1,20 @@
+Early stopping.
+MICRO recall: 0.8028, precision: 0.4872, f1: 0.6064
+MACRO recall: 0.7803, precision: 0.4504, f1: 0.5578
+
+PER CLASS BREAKDOWN
+
+*** Anger ***
+recall: 0.7143, precision: 0.2083, f1: 0.3226
+
+*** Fear ***
+recall: 0.9, precision: 0.6792, f1: 0.7742
+
+*** Joy ***
+recall: 0.8621, precision: 0.3846, f1: 0.5319
+
+*** Sadness ***
+recall: 0.6522, precision: 0.4225, f1: 0.5128
+
+*** Surprise ***
+recall: 0.7727, precision: 0.5574, f1: 0.6476
