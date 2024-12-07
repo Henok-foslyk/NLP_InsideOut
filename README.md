@@ -7,8 +7,8 @@ Sklearn model trials - binarymodels.ipynb (Binary Relevance and Classifier Chain
 Improvements on baseline model - DL.ipynb
 
 ## Transformer models:
-   - experiment-transformers.ipynb
-   - neuralnetnotebook.ipynb
+   - experiment-transformers.ipynb (DistilBert)
+   - neuralnetnotebook.ipynb (DeBERTa)
 
 file_translate.py  -- translation script -- works with google cloud API
 
