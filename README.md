@@ -1,8 +1,8 @@
 # NLP_InsideOut
 
-Baseline - baseline.ipynb
+Baseline from sem_eval - baseline.ipynb
 
-Sklearn model trials - binarymodels.ipynb (Binary relevance and Classifier Chain)
+Sklearn model trials - binarymodels.ipynb (Binary Relevance and Classifier Chain)
 
 Improvements on baseline model - DL.ipynb
 
