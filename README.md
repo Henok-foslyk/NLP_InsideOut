@@ -9,8 +9,11 @@
   -  Improvements on baseline neural network - DL.ipynb
 
 ## Transformer models:
-   - experiment-transformers.ipynb (DistilBert)
-   - neuralnetnotebook.ipynb (DeBERTa)
+   - deberta.ipynb (Deberta final implementation)
+   - sam-distilbert-tuning.ipynb (Distilbert final implementation)
+   - sam-distilbert-eval.ipynb (Distilbert final evaluations)
+   - experiment-transformers.ipynb (initial DistilBert experiments)
+   - neuralnetnotebook.ipynb (inital DeBERTa experiments)
 
 ## Data:
 We worked on the sem_eval dataset:
