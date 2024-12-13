@@ -29,6 +29,8 @@ We worked on the sem_eval dataset:
    - xed_fixed.csv ( form Helsinki dataset after dropping extra labels)
 
 file_translate.py  -- translation script used for amharic -- works with google cloud API
+random_selection.py -- random selection script for self labeling task.
+random_rows.csv -- 30 example selected with random selection script.
       
 
 
